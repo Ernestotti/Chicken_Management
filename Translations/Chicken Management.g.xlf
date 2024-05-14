@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Chicken Management">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3332122155 - Method 3152277940 - NamedType 1212016460" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Chicken %1 %2 has eggs, you can"t delete it.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Chicken No.; %2 = Chicken Description</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Method OnDelete - NamedType ChickenHasEggsErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 248072888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCChickenTypeCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 997551889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCChickenTypeDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 586446112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCDateFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 1369321986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 3939599951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCEggTypeFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 1286618865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Modified</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCLastDateModified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 229889955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 2842756099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Of Egg Produced</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCNumberOfEggProduced - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3332122155 - Field 3709404784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChicken - Field EFCPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1378246403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChickenType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1378246403 - Field 1176213807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChickenType - Field EFCCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1378246403 - Field 1369321986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCChickenType - Field EFCDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3577082531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Egg Production Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionHeader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3577082531 - Field 4234599741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionHeader - Field EFCDocumentDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3577082531 - Field 229889955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionHeader - Field EFCNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Egg Production Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 1380852377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCChickenDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 2829192322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCChickenNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 1826722884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCDocumentNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 3530725222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCEggProductionDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 1464193604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCEggTypeCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 1022582029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCEggTypeDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 4214242659 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCLineNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 298549500 - Field 2289411485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggProductionLine - Field EFCQuantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1478675959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Egg Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1478675959 - Field 1176213807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggType - Field EFCCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1478675959 - Field 1369321986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEggType - Field EFCDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 308060831 - Control 248072888 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Chicken Type Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenCard - Control EFCChickenTypeCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 308060831 - Control 997551889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Chicken Type Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenCard - Control EFCChickenTypeDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 308060831 - Control 1369321986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenCard - Control EFCDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 308060831 - Control 1286618865 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Last Date Modified field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenCard - Control EFCLastDateModified - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 308060831 - Control 229889955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenCard - Control EFCNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 308060831 - Control 2842756099 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number Of Egg Produced field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenCard - Control EFCNumberOfEggProduced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 308060831 - Control 3709404784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenCard - Control EFCPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 21473109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Chicken List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 21473109 - Control 248072888 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Chicken Type Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenList - Control EFCChickenTypeCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 21473109 - Control 1369321986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenList - Control EFCDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 21473109 - Control 229889955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenList - Control EFCNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 21473109 - Control 2842756099 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number Of Egg Produced field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenList - Control EFCNumberOfEggProduced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 3866227426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action eChickenList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 4218025153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action eChickenTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 516731173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action eEggProduction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 54529053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action eEggTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 2167928458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action EggProduction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 3712355866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action EggTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 1572708512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Master Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action MasterData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 2290072445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action ChickenList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660332135 - Action 2614197542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenManagementRoleCenter - Action ChickenTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1680465358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Chicken Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1680465358 - Control 1176213807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenTypes - Control EFCCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680465358 - Control 1369321986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCChickenTypes - Control EFCDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 933235955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Egg Production Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 933235955 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionDocument - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 933235955 - Control 4234599741 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionDocument - Control EFCDocumentDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 933235955 - Control 229889955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionDocument - Control EFCNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1990213990 - Control 1380852377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Chicken Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionLineList - Control EFCChickenDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1990213990 - Control 2829192322 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Chicken No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionLineList - Control EFCChickenNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1990213990 - Control 1826722884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionLineList - Control EFCDocumentNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1990213990 - Control 3530725222 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Egg Production Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionLineList - Control EFCEggProductionDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1990213990 - Control 1464193604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Egg Type Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionLineList - Control EFCEggTypeCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1990213990 - Control 2289411485 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionLineList - Control EFCQuantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1774951176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Egg Production List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1774951176 - Control 4234599741 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionList - Control EFCDocumentDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1774951176 - Control 229889955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionList - Control EFCNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 907318851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Egg Production Subpage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionSubpage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 907318851 - Control 1380852377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Chicken Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionSubpage - Control EFCChickenDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 907318851 - Control 2829192322 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Chicken No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionSubpage - Control EFCChickenNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 907318851 - Control 3530725222 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Egg Production Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionSubpage - Control EFCEggProductionDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 907318851 - Control 1464193604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Egg Type Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionSubpage - Control EFCEggTypeCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 907318851 - Control 2289411485 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggProductionSubpage - Control EFCQuantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Egg Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Control 1176213807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Control EFCCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Control 1176213807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Control EFCCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Control 1369321986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Control EFCDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Control 1369321986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Control EFCDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Action 1309305638 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InsertDefaultEggTypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Action InsertDefaultEggTypes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Action 1309305638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InsertDefaultEggTypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Action InsertDefaultEggTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4182805506 - Action 1309305638 - Method 1377591017 - NamedType 409176484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are already Egg Types in the table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEggTypes - Action InsertDefaultEggTypes - Method OnAction - NamedType EggTypeNotEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Profile 2377081939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile EFCChickenManagementProfile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2377081939 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manejo de pollos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile EFCChickenManagementProfile - Property ProfileDescription</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
